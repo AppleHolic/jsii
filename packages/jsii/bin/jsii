@@ -1,2 +1,2 @@
-#!/usr/bin/env node
+#!/usr/bin/env node --stack-size=5000000
 require('./jsii.js');
